@@ -2,7 +2,7 @@
 import sys
 import warnings
 
-from crew import MyMas
+from my_mas.crew import MyMas
 
 warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 
